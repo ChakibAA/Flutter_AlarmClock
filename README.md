@@ -1,6 +1,6 @@
 # flutter_alarmclock
 
------
+Flutter plugin for accessing the Android AlarmClock service.
 
 ## Getting Started
 
